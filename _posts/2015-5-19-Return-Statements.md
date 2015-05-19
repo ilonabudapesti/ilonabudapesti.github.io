@@ -4,7 +4,8 @@ title: Return Statements
 published: true
 ---
 
-# Pesky Return Statement###
+
+
 
 There is a set of common mistakes that I see Hack Reactor students make with regards to return statements and I thought it would be helpful to list them out, see what is causing these mistakes and how they could be improved upon/eliminated.
 
